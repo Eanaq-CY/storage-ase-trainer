@@ -1,0 +1,6 @@
+# Private Unterlagen nicht veröffentlichen
+Prüfungsfragen.pdf
+*.pdf
+
+# Lokale Tool-Konfiguration
+.claude/
